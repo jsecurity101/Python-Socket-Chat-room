@@ -1,0 +1,8 @@
+SERVER SIDE
+python test.py
+
+ClIENT SIDE (IF ON SAME HOST)
+python ctest.py localhost 12345
+
+CLIENT SIDE (IF ON DIFFERENT HOST)
+python ctest.py *ip address of server** 12345
